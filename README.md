@@ -1,6 +1,6 @@
 ## Sordes PCB SMT version
-![Scheme](https://user-images.githubusercontent.com/82319443/168942679-a9dd3ede-b9e1-429a-88d2-c8fceb3f0ea6.png)
-![0](https://user-images.githubusercontent.com/82319443/168942744-94b499d5-aef8-4ec7-910e-81cdbda11c7d.PNG)
+![1](https://user-images.githubusercontent.com/82319443/183282034-aa1734f2-2f80-4c15-b96c-eabc69540e70.png)
+![2](https://user-images.githubusercontent.com/82319443/183282038-1d18704e-22ef-40c1-b926-5adfe269bf92.PNG)
 ### Battery
 TP4056 Li-Ion Battery Charging Circuit(1A)
 ### DC-DC
