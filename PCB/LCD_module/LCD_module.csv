@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+"100nf","C1,C2,C3,C4,C5,C6","Capacitor_SMD:C_0603_1608Metric",""
+"UPLOAD","J1","Connector_Molex:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal",""
+"COMM","J2","Connector_Molex:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal",""
+"10k","R1","Resistor_SMD:R_0603_1608Metric",""
+"IO0","S1","KIcad:SW_TS-1187A-B-A-B",""
+"EN","S2","KIcad:SW_TS-1187A-B-A-B",""
+"ESP32-WROOM-32","U1","RF_Module:ESP32-WROOM-32",""
+"AMS1117-3.3","U2","Package_TO_SOT_SMD:SOT-223-3_TabPin2",""
+"ILI9488","U3","KIcad:ILI9488",""
