@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/82319443/183476144-5c3a8d32-e4af-43c3-8d26-5c048b6cde0e.png)
 ![image](https://user-images.githubusercontent.com/82319443/183477162-3d633763-05bc-41f3-b66e-af52efb0368b.png)
 ![image](https://user-images.githubusercontent.com/82319443/183477351-22968638-6c4a-4c59-9608-a5b4a2891747.png)
+![image](https://user-images.githubusercontent.com/82319443/183478640-55c2b1f6-043a-4532-a7cc-4db96eef6f59.png)
 ### Battery
 TP4056 Li-Ion Battery Charging Circuit(1A)
 ### DC-DC
