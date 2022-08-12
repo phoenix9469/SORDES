@@ -1,6 +1,6 @@
 ## Sordes Motherboard SMT Version
 ### Schematic
-![image](https://user-images.githubusercontent.com/82319443/183477162-3d633763-05bc-41f3-b66e-af52efb0368b.png)
+![image](https://user-images.githubusercontent.com/82319443/184365545-22a027b3-d9d9-40e2-b3ac-1d120341758e.png)
 ### PCB
 ![image](https://user-images.githubusercontent.com/82319443/184364888-13750411-0b20-40bb-b71e-10912473e623.png)
 ### 3D Top
