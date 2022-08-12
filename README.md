@@ -4,7 +4,7 @@
 ### PCB
 ![image](https://user-images.githubusercontent.com/82319443/184364888-13750411-0b20-40bb-b71e-10912473e623.png)
 ### 3D Top
-![top](https://user-images.githubusercontent.com/82319443/183480013-ddce393e-c5e9-400e-9e28-227f849170ec.png)
+![image](https://user-images.githubusercontent.com/82319443/184365297-e3f394b4-f3ed-4541-9aea-9b1490216869.png)
 ### 3D Bottom
 ![bottom](https://user-images.githubusercontent.com/82319443/183480018-8bf6ac9e-e13b-40db-85b8-491cb2b02f78.png)
 ### Main MCU
