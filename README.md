@@ -2,7 +2,7 @@
 ### Schematic
 ![image](https://user-images.githubusercontent.com/82319443/183477162-3d633763-05bc-41f3-b66e-af52efb0368b.png)
 ### PCB
-![image](https://user-images.githubusercontent.com/82319443/183476144-5c3a8d32-e4af-43c3-8d26-5c048b6cde0e.png)
+![image](https://user-images.githubusercontent.com/82319443/184364888-13750411-0b20-40bb-b71e-10912473e623.png)
 ### 3D Top
 ![top](https://user-images.githubusercontent.com/82319443/183480013-ddce393e-c5e9-400e-9e28-227f849170ec.png)
 ### 3D Bottom
