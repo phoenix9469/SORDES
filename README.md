@@ -6,7 +6,7 @@
 ### 3D Top
 ![image](https://user-images.githubusercontent.com/82319443/184365297-e3f394b4-f3ed-4541-9aea-9b1490216869.png)
 ### 3D Bottom
-![bottom](https://user-images.githubusercontent.com/82319443/183480018-8bf6ac9e-e13b-40db-85b8-491cb2b02f78.png)
+![image](https://user-images.githubusercontent.com/82319443/184365460-4c070b2c-b38b-4b33-8b4f-89303b3da26b.png)
 ### Main MCU
 ESP32_WROOM_32D
 Internal Antenna
