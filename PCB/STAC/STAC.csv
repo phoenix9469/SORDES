@@ -16,6 +16,7 @@ Comment,Designator,Footprint,LCSC
 "UART","J4","Connector_Molex:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal",""
 "COMM","J5","Connector_Molex:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal",""
 "SW","J6","Connector_Molex:Molex_PicoBlade_53261-0371_1x03-1MP_P1.25mm_Horizontal",""
+"RATE","JP1","Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels",""
 "POWER_SLCT","K1","Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C",""
 "4.7uh","L1","Inductor_SMD:L_6.3x6.3_H3",""
 "3.3uh","L2","Inductor_SMD:L_0603_1608Metric",""

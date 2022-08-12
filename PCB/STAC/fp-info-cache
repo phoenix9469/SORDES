@@ -1,4 +1,4 @@
-19651784133754000
+19655104005236552
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -55412,6 +55412,13 @@ Heatsink 60mm
 4
 1
 KIcad
+ILI9488
+
+
+0
+18
+18
+KIcad
 ITS-1105
 
 
@@ -56104,6 +56111,13 @@ inductor 77
 0
 2
 2
+KIcad
+loadcell
+
+
+0
+3
+3
 KIcad
 mouse-bite-1mm-slot
 
