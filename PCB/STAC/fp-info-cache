@@ -1,4 +1,4 @@
-19655104005236552
+19658424429432360
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75047,6 +75047,13 @@ Zigbee
 24
 24
 RF_Module
+E32-400M30S
+
+
+0
+18
+18
+RF_Module
 E73-2G4M04S
 http://www.cdebyte.com/en/downpdf.aspx?id=243
 BLE BLE5 nRF52832
@@ -75172,6 +75179,13 @@ TWE-L-WX
 0
 32
 32
+RF_Module
+Nicerf_sx1276
+
+
+0
+14
+14
 RF_Module
 Particle_P1
 https://docs.particle.io/datasheets/p1-datasheet/
